@@ -1,7 +1,6 @@
 # Old Fashion Pound Library
 Java coding test for Eidos
 
-********************************************************************************************Task:**********************************************************************************
 Write a library (package OldFashionPound) implementing the 4 arithmetic operations (sum, subtraction, multiplication and division) for pre-1970 UK prices. 
 Under the old money system of UK, before 1970, there were 12 pence in a shilling and 20 shillings, or 240 pence, in a pound. Thus, a price in the OldUK Money system was expressed in Pounds, Shillings and Pence. For example "12p 6s 10d" is 12 Pounds, 6 Shillings and 10 Pence.
 
@@ -17,6 +16,4 @@ Example DIVISION                          5p 17s 8d / 3 = 1p 19s 2d (2p) (2 penc
 Another Example DIVISION          18p 16s 1d / 15 = 1p 5s 0d   (1s 1d) (1 Shillings and 1 penny as remainder - the remainder should be represented between parenthesis)
 
 The library should be able to receive and produce strings in the format "Xp Ys Zd", as in the examples
-
-***********************************************************************************************************************************************************************************
 
