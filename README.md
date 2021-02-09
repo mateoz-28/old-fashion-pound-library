@@ -1,2 +1,2 @@
-# old-fashion-pound-library
+# Old Fashion Pound Library
 Java coding test for Eidos
