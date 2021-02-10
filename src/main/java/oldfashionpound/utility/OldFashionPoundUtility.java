@@ -55,7 +55,7 @@ public class OldFashionPoundUtility {
     }
 
     /**
-     * Helper class that converts {@link oldfashionpound.models.OldFashionPoundModel} to pence
+     * Helper method that converts {@link oldfashionpound.models.OldFashionPoundModel} to pence
      * @param oldFashionPoundModel instance for conversion
      * @return long value representing {@link oldfashionpound.models.OldFashionPoundModel} amount in pence
      */
@@ -65,7 +65,7 @@ public class OldFashionPoundUtility {
     }
 
     /**
-     * Helper class that converts pence to {@link oldfashionpound.models.OldFashionPoundModel}
+     * Helper method that converts pence to {@link oldfashionpound.models.OldFashionPoundModel}
      * @param pence long amount in pence
      * @return {@link oldfashionpound.models.OldFashionPoundModel} representing pence amount in pound, shillings and pence format
      */
